@@ -1,6 +1,6 @@
 # Semester Two Notes and Resources
 
-Welcome to the Semester One Notes repository! This repository provides comprehensive notes and resources for students at Ghulam Ishaq Khan Institute, Topi, Swabi-KPK Pakistan. These materials aim to help juniors navigate their academic journey with ease and confidence.
+Welcome to the Semester Two Notes repository! This repository provides comprehensive notes and resources for students at Ghulam Ishaq Khan Institute, Topi, Swabi-KPK Pakistan. These materials aim to help juniors navigate their academic journey with ease and confidence.
 
 Note: This repository addresses only courses with a higher difficulty level.
 
