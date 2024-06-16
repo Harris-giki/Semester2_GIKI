@@ -44,6 +44,12 @@ Instructions:
 Lab sessions are held *weekly for three hours*, with each session covering a different experiment. The content is straightforward and manageable, so there's no need to worry. Midterm and final exams mainly consist of multiple-choice questions (MCQs) based on lab manuals and lecture slides. Study these materials thoroughly. Midterm exams may also include short questions on point and plane diagrams of various cubic structures.
 
 
+**Probability and Statistics - ES 111**
+  - **PROBABILITY AND STATISTICS (3 Credit Hours)**
+
+Instructions:
+This 3-credit hour course can significantly impact your grade. A-level students may find the pre-midterm section manageable since much of the content is similar to what they had already studied. In contrast, FSC students will need to dedicate considerable time and effort to grasp the material. Solving numerous related problems is crucial for success. However, the post-midterm portion of the course is relatively easier than the pre-midterm section.
+
 ## How to Use the Repository
 
 Click the specific file you wish to download, then navigate to the "Download Raw File" button to download the PDF.
