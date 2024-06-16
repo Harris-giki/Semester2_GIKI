@@ -28,6 +28,22 @@ This course includes a 3-credit hour theoretical component and a 1-credit hour l
 LINK: https://youtube.com/playlist?list=PLduM7bkxBdOekXfkEqIBAivzG99V2LrAS&si=r9u6rzBe7h5k24Zv
 
 
+**Material and Nanotechnology - MM 101**
+  - **MATERIALS AND NANOTECHNOLOGY (2 Credit Hours)**
+
+Instructions:
+This course builds on concepts you may have studied in FSC chemistry, but it approaches them from a more scientific perspective.
+Past Papers: Obtain past papers from your TAs and instructors, as many exam and quiz questions are often repeated.
+Lecture Slides: Focus on every lecture slide carefully rather than delving deeply into the textbook.
+Numerical Problems: Pay special attention to numerical problems, as they will constitute a significant portion of your midterm and final exams.
+
+**Material and Nanotechnology LAB - MM 101/MM141**
+  - **MATERIALS AND NANOTECHNOLOGY LAB (1 Credit Hours)**
+
+Instructions:
+Lab sessions are held *weekly for three hours*, with each session covering a different experiment. The content is straightforward and manageable, so there's no need to worry. Exam Preparation: Midterm and final exams mainly consist of multiple-choice questions (MCQs) based on lab manuals and lecture slides. Study these materials thoroughly. Midterm exams may also include short questions on point and plane diagrams of various cubic structures.
+
+
 ## How to Use the Repository
 
 Click the specific file you wish to download, then navigate to the "Download Raw File" button to download the PDF.
