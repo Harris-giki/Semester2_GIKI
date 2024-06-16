@@ -17,6 +17,8 @@ Instructions:
 
 This course should be manageable if you've put in good efforts in college mathematics, especially for Federal Board (FBISE) students, as the content is similar. Since it's a 3 credit hour course, it can significantly affect your grade. Practice daily and use verified solutions for "Advanced Engineering Mathematics" by Erwin Kreyszig and "A First Course in Differential Equations with Modeling Applications" by Dennis G. Zill available on Quizlet.
 
+Note that there are two textbooks for this course, so chapter numbers might overlap. Chapters suffixed with an "E" in the MT102 file names refer to Erwin Kreyszig's book.
+
 **Computer Science - CS 112**
   - **Object-Oriented Programming and Design Lab (4 Credit Hours)**
 
