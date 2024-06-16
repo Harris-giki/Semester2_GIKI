@@ -10,7 +10,7 @@ The repository is organized by subjects and topics covered during the second sem
 
 ### Courses/Subjects
 
-**Mathematics - MT 101**
+**Mathematics - MT 102**
   - **DIFFERENTIAL EQUATIONS AND LINEAR ALGEBRA (3 Credit Hours)**
 
 Instructions: 
