@@ -33,15 +33,15 @@ LINK: https://youtube.com/playlist?list=PLduM7bkxBdOekXfkEqIBAivzG99V2LrAS&si=r9
 
 Instructions:
 This course builds on concepts you may have studied in FSC chemistry, but it approaches them from a more scientific perspective.
-Past Papers: Obtain past papers from your TAs and instructors, as many exam and quiz questions are often repeated.
-Lecture Slides: Focus on every lecture slide carefully rather than delving deeply into the textbook.
-Numerical Problems: Pay special attention to numerical problems, as they will constitute a significant portion of your midterm and final exams.
+Obtain past papers from your TAs and instructors, as many exam and quiz questions are often repeated.
+Focus on every lecture slide carefully rather than delving deeply into the textbook.
+Pay special attention to numerical problems, as they will constitute a significant portion of your midterm and final exams.
 
 **Material and Nanotechnology LAB - MM 101/MM141**
   - **MATERIALS AND NANOTECHNOLOGY LAB (1 Credit Hours)**
 
 Instructions:
-Lab sessions are held *weekly for three hours*, with each session covering a different experiment. The content is straightforward and manageable, so there's no need to worry. Exam Preparation: Midterm and final exams mainly consist of multiple-choice questions (MCQs) based on lab manuals and lecture slides. Study these materials thoroughly. Midterm exams may also include short questions on point and plane diagrams of various cubic structures.
+Lab sessions are held *weekly for three hours*, with each session covering a different experiment. The content is straightforward and manageable, so there's no need to worry. Midterm and final exams mainly consist of multiple-choice questions (MCQs) based on lab manuals and lecture slides. Study these materials thoroughly. Midterm exams may also include short questions on point and plane diagrams of various cubic structures.
 
 
 ## How to Use the Repository
