@@ -1,65 +1,76 @@
-# Semester Two Notes and Resources
+# Semester Three Notes and Resources
 
-Welcome to the Semester Two Notes repository! This repository provides comprehensive notes and resources for students at Ghulam Ishaq Khan Institute, Topi, Swabi-KPK Pakistan. These materials aim to help juniors navigate their academic journey with ease and confidence.
+Welcome to the Semester Three Notes repository for CS Majors! 📚 This repository provides comprehensive notes and resources for students at Ghulam Ishaq Khan Institute, Topi, Swabi-KPK, Pakistan, majoring in Computer Science and related fields. These materials aim to help sophomores navigate their academic journey with ease and confidence.
 
-Note: This repository addresses only courses with a higher difficulty level.
+## 📖 Summary Table
+| Course Code | Course Name | Credit Hours | Difficulty |
+|-------------|-------------|--------------|------------|
+| CE - 221   | Digital Logic Design and Labs | 4 | Medium |
+| DS - 221   | Inferential Statistics and Applied Probability | 3 | High |
+| CS - 221   | Data Structures and Algorithms and Labs | 4 | High |
+| CS - 231   | Discrete Mathematics | 3 | Easy |
+| CS - 202   | Introduction to Information Technology | 2 | Easy |
+
+> **Note:** This repository focuses on courses with a higher difficulty level.
 
 ## Repository Structure and Instructions
 
-The repository is organized by subjects and topics covered during the second semester. Each subject contains detailed notes, example problems, and additional resources.
+The repository is organized by subjects and topics covered during the third semester. Each subject contains detailed notes, example problems, and additional resources to support learning.
 
-### Courses/Subjects
+### 📘 Courses/Subjects
 
-**Mathematics - MT 102**
-  - **DIFFERENTIAL EQUATIONS AND LINEAR ALGEBRA (3 Credit Hours)**
+#### **CE - 221: Digital Logic Design and Labs (4 Credit Hours)**
+**Instructions:**
 
-Instructions: 
+This course is manageable with a solid understanding of the basics. A skilled instructor can significantly enhance your problem-solving ability. As a CS major, you will likely be assigned one of the best instructors for this course. However, if you feel the need for additional help, excellent resources are available on YouTube. One highly recommended channel is *'All About Electronics'*. Focus on mastering the basics and apply them to design problems, commonly found in textbooks or through tools like ChatGPT. Consistent practice and problem exposure are key to excelling in this subject.
 
-This course should be manageable if you've put in good efforts in college mathematics, especially for Federal Board (FBISE) students, as the content is similar. Since it's a 3 credit hour course, it can significantly affect your grade. Practice daily and use verified solutions for "Advanced Engineering Mathematics" by Erwin Kreyszig and "A First Course in Differential Equations with Modeling Applications" by Dennis G. Zill available on Quizlet.
+---
 
-Note that there are two textbooks for this course, so chapter numbers might overlap. Chapters suffixed with an "E" in the MT102 file names refer to Erwin Kreyszig's book.
+#### **DS - 221: Inferential Statistics and Applied Probability (3 Credit Hours)**
+**Instructions:**
 
-**Computer Science - CS 112**
-  - **Object-Oriented Programming and Design Lab (4 Credit Hours)**
+This course is a near replica of *ES-221* and may be omitted for future batches. However, if you are enrolled, here are tips for success. A-level students may find the pre-midterm portion manageable due to prior exposure, while FSC students may need to invest extra effort in mastering the material. Post-midterm content is generally easier. Concepts such as Linear Regression, Binary Classification, and Principal Component Analysis (PCA) might be introduced. Pay attention during lectures and supplement your learning with reliable online resources.
 
-Instructions: 
-This course includes a 3-credit hour theoretical component and a 1-credit hour lab. By the end of the first semester, your programming skills will have significantly improved, making it easier to grasp new concepts and apply them in your coding activities. While this course is not particularly difficult, it covers a wide range of concepts. Therefore, familiarizing yourself with these concepts before the semester begins can be very beneficial. To get a head start, I recommend watching and learning Object-Oriented Programming in C++ from Safdar Dogar. The link to the related playlist is provided below.
+---
 
-LINK: https://youtube.com/playlist?list=PLduM7bkxBdOekXfkEqIBAivzG99V2LrAS&si=r9u6rzBe7h5k24Zv
+#### **CS - 221: Data Structures and Algorithms and Labs (4 Credit Hours)**
+**Instructions:**
 
+This course emphasizes efficient management of space and time in coding solutions. Various data structures and algorithms are studied and compared for their time and space complexity. A recommended approach is to learn each data structure thoroughly from YouTube and class lectures before practicing problems of varying difficulty on platforms like *LeetCode*. This will improve your problem-solving skills and prepare you for competitive coding events like ICPC. A dedicated DSA repository with detailed codes can be accessed here: [DSA Repository](https://github.com/Harris-giki/DSA_Cpp).
 
-**Material and Nanotechnology - MM 101**
-  - **MATERIALS AND NANOTECHNOLOGY (2 Credit Hours)**
+---
 
-Instructions:
-This course builds on concepts you may have studied in FSC chemistry, but it approaches them from a more scientific perspective.
-Obtain past papers from your TAs and instructors, as many exam and quiz questions are often repeated.
-Focus on every lecture slide carefully rather than delving deeply into the textbook.
-Pay special attention to numerical problems, as they will constitute a significant portion of your midterm and final exams.
+#### **CS - 231: Discrete Mathematics (3 Credit Hours)**
+**Instructions:**
 
-**Material and Nanotechnology LAB - MM 101/MM141**
-  - **MATERIALS AND NANOTECHNOLOGY LAB (1 Credit Hours)**
+This course, considered one of the most diverse yet easier ones, includes concepts from statistics, data structures, algorithms, and digital logic design. The best strategy for success is to solve as many exercise questions as possible. Answer keys for various exercises are available in this repository. Follow a structured approach as described in the textbooks, as it is often appreciated by instructors.
 
-Instructions:
-Lab sessions are held *weekly for three hours*, with each session covering a different experiment. The content is straightforward and manageable, so there's no need to worry. Midterm and final exams mainly consist of multiple-choice questions (MCQs) based on lab manuals and lecture slides. Study these materials thoroughly. Midterm exams may also include short questions on point and plane diagrams of various cubic structures.
+---
 
+#### **CS - 202: Introduction to Information Technology (2 Credit Hours)**
+**Instructions:**
 
-**Probability and Statistics - ES 111**
-  - **PROBABILITY AND STATISTICS (3 Credit Hours)**
+This theoretical course introduces modern technological advancements such as SQL programming, terminal-based commands, Linux systems, machine learning, and cybersecurity. The concepts are straightforward, and exam questions are often scenario-based. Active participation in lectures should be sufficient to perform well.
 
-Instructions:
-This 3-credit hour course can significantly impact your grade. A-level students may find the pre-midterm section manageable since much of the content is similar to what they had already studied. In contrast, FSC students will need to dedicate considerable time and effort to grasp the material. Solving numerous related problems is crucial for success. However, the post-midterm portion of the course is relatively easier than the pre-midterm section.
+---
 
-## How to Use the Repository
+## 📂 How to Use the Repository
 
-Click the specific file you wish to download, then navigate to the "Download Raw File" button to download the PDF.
+1. Browse the subject folders.
+2. Select the desired file.
+3. Click the **Download Raw File** button to download the PDF.
 
-Explore, study, and utilize these notes to enhance your understanding and performance in your first semester.
+Utilize these notes and resources to strengthen your understanding and boost your academic performance.
 
-## Contributing
+## 🤝 Contributing
 
-Contributions are welcome! For additional notes, corrections, or suggestions, please create a pull request or open an issue. Let's make this repository a valuable resource for everyone!
+Contributions are encouraged! If you have additional notes, corrections, or suggestions, feel free to:
+- Create a pull request.
+- Open an issue.
 
-## Contact
+Together, we can make this repository a valuable resource for everyone!
 
-For questions or assistance, reach out at [harris.giki@gmail.com](mailto:harris.giki@gmail.com)
+## 📧 Contact
+
+For questions or assistance, feel free to reach out at [harris.giki@gmail.com](mailto:harris.giki@gmail.com).
+
