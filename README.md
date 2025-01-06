@@ -51,7 +51,7 @@ This course is manageable if you have a strong background in college mathematics
 
 This course comprises a **3-credit hour theoretical** component and a **1-credit hour lab**. By the end of the first semester, your programming skills should have significantly improved, making the new concepts easier to grasp and apply.
 
-- This course covers a **broad range of concepts** but is not particularly difficult. 💻
+- This course covers a **broad range of concepts** but is not particularly difficult. 
 - To get a head start, familiarize yourself with **Object-Oriented Programming in C++** before the semester begins. You can follow the **playlist** by **Safdar Dogar** on YouTube for a comprehensive guide. 📺
 
 **[Watch the Playlist Here](https://youtube.com/playlist?list=PLduM7bkxBdOekXfkEqIBAivzG99V2LrAS&si=r9u6rzBe7h5k24Zv)**
@@ -65,9 +65,9 @@ This course comprises a **3-credit hour theoretical** component and a **1-credit
 
 This course builds upon concepts you might have studied in **FSC Chemistry**, but takes a more scientific approach. To succeed:
 
-- **Past papers** are a great resource, as many exam and quiz questions are often repeated. Reach out to your **TAs** and **instructors** for past papers. 📝
-- Focus more on **lecture slides** than the textbook for optimal preparation. 📚
-- **Numerical problems** are a major part of midterm and final exams, so make sure to practice them thoroughly. 💡
+- **Past papers** are a great resource, as many exam and quiz questions are often repeated. Reach out to your **TAs** and **instructors** for past papers. 
+- Focus more on **lecture slides** than the textbook for optimal preparation. 
+- **Numerical problems** are a major part of midterm and final exams, so make sure to practice them thoroughly. 
 
 ---
 
@@ -76,10 +76,10 @@ This course builds upon concepts you might have studied in **FSC Chemistry**, bu
 
 **Instructions:**
 
-- **Lab sessions** are held weekly for 3 hours, with each session dedicated to a different experiment. 🔬
-- The content is **manageable**, so don’t stress. 😊
-- Midterm and final exams will primarily consist of **multiple-choice questions (MCQs)** based on **lab manuals** and **lecture slides**. Be sure to study these thoroughly. 📄
-- Midterms may include **short questions** related to **point and plane diagrams** of cubic structures. 📊
+- **Lab sessions** are held weekly for 3 hours, with each session dedicated to a different experiment. 
+- The content is **manageable**, so don’t stress. 
+- Midterm and final exams will primarily consist of **multiple-choice questions (MCQs)** based on **lab manuals** and **lecture slides**. Be sure to study these thoroughly. 
+- Midterms may include **short questions** related to **point and plane diagrams** of cubic structures. 
 
 ---
 
@@ -92,8 +92,8 @@ This 3-credit hour course plays an important role in your final grade. 🎯
 
 - **A-Level** students may find the **pre-midterm section** easier, as it’s similar to what they've already studied.
 - **FSC** students, on the other hand, will need to invest more time and effort to understand the material. ⏳
-- Success in this course requires **solving related problems** regularly. ✍️
-- The **post-midterm** portion of the course is generally **easier** than the pre-midterm section. 😊
+- Success in this course requires **solving related problems** regularly. 
+- The **post-midterm** portion of the course is generally **easier** than the pre-midterm section. 
 
 ---
 
@@ -110,7 +110,7 @@ Explore, study, and utilize these notes to enhance your understanding and perfor
 
 We welcome **contributions**! If you have additional notes, corrections, or suggestions, please:
 
-- Create a **pull request** 🔄
+- Create a **pull request** 
 - Open an **issue** ❓
 
 Let's make this repository an invaluable resource for everyone! 🌟
